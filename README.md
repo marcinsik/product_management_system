@@ -1,5 +1,5 @@
 # products_warehouses_management_system
-A simple api for tracking products and their location. django / rest api 
+A simple api for tracking products and their location. django REST API 
 
 1. activate env
 
